@@ -2,4 +2,3 @@ All the topics covered in this section
 
 1) Basic command line (cd,ls,pwd)
 2) Python installation (Anaconda -> jupyter notebook)
-3) 
