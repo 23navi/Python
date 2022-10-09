@@ -1,1 +1,1 @@
-All the topics covered in this section
+Python objects and data structure basics
