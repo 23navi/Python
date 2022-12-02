@@ -1,0 +1,2 @@
+from MyMainPackage import abc
+
